@@ -26,9 +26,9 @@ describe ("Grading Tests: ", function () {
       stylesElement.textContent = css;
       window.document.head.appendChild(stylesElement);
 
-      window.addEventListener("load", function() {
+      
          container = window.document;
-      });
+     
    });
 
    it("HTML includes the correct number of certain elements", function() {
