@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+body {
+    background-color: blanchedalmond;
+    margin: 8px;
+    display: block;
+}
+nav {
+    margin: auto;
+    padding: 25px;
+}
+h1 {
+    margin: auto;
+    padding: 25px;
+    color: black;
+}
+h2 {
+    margin: auto;
+    padding: 25px;
+    color: navy;
+}
+.blurb {
+    margin: auto;
+    padding: 25px;
+    color: purple
+}
+.funParagraph {
+    color: green;
+    margin: auto;
+    padding: 25px;
+}
+#picture {
+    margin: auto;
+    padding: 25px;
+    max-width: 100%;
+    height: auto;
+}
+#mainHeading {
+    color: red;
+}
